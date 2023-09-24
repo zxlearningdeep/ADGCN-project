@@ -9,18 +9,7 @@ Zhixiang Shen, Tianle Zhang, Haolan He. "ADGCN: A Weakly Supervised Framework fo
 **Abstract:**  
 ---
 Detecting abnormal users in social networks is crucial for protecting
-user privacy and preventing criminal activities. However, existing graph learn-
-ing methods have limitations. Unsupervised methods focus on topological
-anomalies and may overlook user characteristics, while supervised methods re-
-quire costly data annotations. To address these challenges, we propose a weakly
-supervised framework called Anomaly Detection Graph Convolutional Network
-(ADGCN). Our model includes three modules: information-preserving com-
-pression of user features, collaborative mining of global and local graph infor-
-mation, and multi-view weakly supervised classification. We demonstrate that
-ADGCN generates high-quality user representations using minimal labeled data
-and achieves state-of-the-art performance on two real-world social network da-
-tasets. Ablation experiments and performance analyses show the feasibility and
-effectiveness of our approach in practical scenarios.  
+user privacy and preventing criminal activities. However, existing graph learning methods have limitations. Unsupervised methods focus on topological anomalies and may overlook user characteristics, while supervised methods require costly data annotations. To address these challenges, we propose a weakly supervised framework called Anomaly Detection Graph Convolutional Network (ADGCN). Our model includes three modules: information-preserving compression of user features, collaborative mining of global and local graph information, and multi-view weakly supervised classification. We demonstrate that ADGCN generates high-quality user representations using minimal labeled data and achieves state-of-the-art performance on two real-world social network datasets. Ablation experiments and performance analyses show the feasibility and effectiveness of our approach in practical scenarios.  
 
 
 **Dataset:**  
