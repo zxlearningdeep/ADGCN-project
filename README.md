@@ -2,5 +2,5 @@ The source code of "ADGCN: A Weakly Supervised Framework for Anomaly Detection i
 
   **ADGCN:**  
 ---
-
+![ADGCN Fig](https://github.com/zxlearningdeep/ADGCN-project/blob/main/fig/ADGCN.png)
 
