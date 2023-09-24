@@ -6,3 +6,7 @@ Zhixiang Shen, Tianle Zhang, Haolan He. "ADGCN: A Weakly Supervised Framework fo
 ---
 ![ADGCN Fig](https://github.com/zxlearningdeep/ADGCN-project/blob/main/fig/ADGCN.png)
 
+**Dataset:**  
+---
+http://snap.stanford.edu/jodie/reddit.csv  
+http://snap.stanford.edu/jodie/wikipedia.csv
