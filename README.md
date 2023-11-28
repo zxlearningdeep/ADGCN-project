@@ -1,6 +1,7 @@
 **The official implementation of ADGCN in our paper:**   
 ---
 Zhixiang Shen, Tianle Zhang, Haolan He. "ADGCN: A Weakly Supervised Framework for Anomaly Detection in Social Networks." In the 2023 International Conference on Neural Information Processing (ICONIP-2023)
+https://doi.org/10.1007/978-981-99-8145-8_20
 
   **ADGCN:**  
 ---
